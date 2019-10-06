@@ -46,7 +46,8 @@
 | CMD + Delete             | delete whole line                                     |                                |
 | CMD + CTRL + Space       | show emoji list                                       |                                |
 | F11                      | show desktop                                          |                                |
-| CMD + ➕ / ➖            | zoom in / out                                         |                                |
+| CMD + ➕ or ➖           | zoom in / out                                         |                                |
+| CMD + SHIFT + . or ,     | zoom in / out                                         | in Notes                       |
 | CMD + OPTION + d         | toggle docker                                         |                                |
 |                          |                                                       |                                |
 
