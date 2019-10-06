@@ -174,8 +174,7 @@
 
 ### Evernote
 
-[Mac](https://help.evernote.com/hc/en-us/articles/208313358-Keyboard-shortcuts-in-Evernote-for-Mac)  
-[Windows](https://help.evernote.com/hc/en-us/articles/209004807-Keyboard-shortcuts-in-Evernote-for-Windows)
+[Mac](https://help.evernote.com/hc/en-us/articles/208313358-Keyboard-shortcuts-in-Evernote-for-Mac) / [Windows](https://help.evernote.com/hc/en-us/articles/209004807-Keyboard-shortcuts-in-Evernote-for-Windows)
 
 | Shortcut             | Function            | Remarks |
 | -------------------- | ------------------- | ------- |
