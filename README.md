@@ -11,15 +11,15 @@
 
 ## Key Icon
 
-|           |     |
-| --------- | --- |
-| CMD       | ⌘   |
-| SHIFT     | ⇧   |
-| CTRL      | ⌃   |
-| OPTION    | ⌥   |
-| Delete    |     |
-| Caps Lock | ⇪   |
-|           |     |
+| Name      | Icon |
+| --------- | ---- |
+| CMD       | ⌘    |
+| SHIFT     | ⇧    |
+| CTRL      | ⌃    |
+| OPTION    | ⌥    |
+| Delete    | ⌫    |
+| Caps Lock | ⇪    |
+|           |      |
 
 ## Applications
 
@@ -243,7 +243,7 @@
 | CMD + CTRL + s   | save custom query                                             |         |
 |                  |                                                               |         |
 
-## Tools For Enhance Shortcuts
+## Some Tools For Enhance Shortcuts
 
 [CheatSheet](https://mediaatelier.com/CheatSheet/)
 
