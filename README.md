@@ -168,9 +168,11 @@
 | CMD + p                      | quick search bar       |         |
 | CMD + /                      | open edit tooltip      |         |
 | CMD + k                      | add a link             |         |
+| CMD + \                      | toggle sidebar         |         |
 | CMD + e                      | inline code            |         |
 | CMD + d                      | duplicate select block |         |
 | OPTION + mouse drag and drop | duplicate block        |         |
+| CMD + number                 | switch workspace       |         |
 |                              |                        |         |
 
 ### Evernote
