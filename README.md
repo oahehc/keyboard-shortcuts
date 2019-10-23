@@ -161,19 +161,23 @@
 
 [Reference](https://www.notion.so/Learn-the-shortcuts-66e28cec810548c3a4061513126766b0#187f6beb0b6a4a8aaf87b72428572e55)
 
-| Shortcut                     | Function               | Remarks |
-| ---------------------------- | ---------------------- | ------- |
-| CMD + n                      | create new page        |         |
-| CMD + SHIFT + n              | create new window      |         |
-| CMD + p                      | quick search bar       |         |
-| CMD + /                      | open edit tooltip      |         |
-| CMD + k                      | add a link             |         |
-| CMD + \                      | toggle sidebar         |         |
-| CMD + e                      | inline code            |         |
-| CMD + d                      | duplicate select block |         |
-| OPTION + mouse drag and drop | duplicate block        |         |
-| CMD + number                 | switch workspace       |         |
-|                              |                        |         |
+| Shortcut                     | Function                               | Remarks |
+| ---------------------------- | -------------------------------------- | ------- |
+| CMD + SHIFT + n              | create new window                      |         |
+| CMD + n                      | create new page                        |         |
+| CMD + SHIFT + p              | create new page with selected location |         |
+| CMD + p                      | quick search bar                       |         |
+| CMD + /                      | open edit tooltip                      |         |
+| CMD + k                      | add a link                             |         |
+| CMD + \                      | toggle sidebar                         |         |
+| CMD + e                      | inline code                            |         |
+| CMD + d                      | duplicate select block                 |         |
+| OPTION + mouse drag and drop | duplicate block                        |         |
+| CMD + number                 | switch workspace                       |         |
+| CMD + [ or ]                 | last/next page                         |         |
+| CMD + u                      | to parent page                         |         |
+| CMD + SHIFT + l              | toggle dark mode                       |         |
+|                              |                                        |         |
 
 ### Evernote
 
