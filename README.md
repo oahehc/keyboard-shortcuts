@@ -87,16 +87,16 @@
 
 #### (in Chrome dev-tool)
 
-| Shortcut         | Function                      | Remarks |
-| ---------------- | ----------------------------- | ------- |
-| CMD + SHIFT + p  | show command menu             |         |
-| CMD + SHIFT + m  | toggle device toolbar         |         |
-| CMD + OPTION + c | toggle inspect element mode   |         |
-| F8 or CMD + \    | pause current script          |         |
-| CTRL + \`        | show console inside other tab |         |
-| ESC              | hide console inside other tab |         |
-| CTRL + K         | clear console                 |         |
-|                  |                               |         |
+| Shortcut        | Function                      | Remarks |
+| --------------- | ----------------------------- | ------- |
+| CMD + SHIFT + p | show command menu             |         |
+| CMD + SHIFT + m | toggle device toolbar         |         |
+| CMD + SHIFT + c | toggle inspect element mode   |         |
+| F8 or CMD + \   | pause current script          |         |
+| CTRL + \`       | show console inside other tab |         |
+| ESC             | hide console inside other tab |         |
+| CMD + K         | clear console                 |         |
+|                 |                               |         |
 
 ### Terminal
 
