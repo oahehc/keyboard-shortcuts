@@ -90,12 +90,12 @@
 | Shortcut         | Function                      | Remarks |
 | ---------------- | ----------------------------- | ------- |
 | CMD + SHIFT + p  | show command menu             |         |
-| CTRL + \`        | show console panel            |         |
 | CMD + SHIFT + m  | toggle device toolbar         |         |
 | CMD + OPTION + c | toggle inspect element mode   |         |
 | F8 or CMD + \    | pause current script          |         |
-| ESC              | open console inside other tab |         |
-| CTRL + l         | clear console                 |         |
+| CTRL + \`        | show console inside other tab |         |
+| ESC              | hide console inside other tab |         |
+| CTRL + K         | clear console                 |         |
 |                  |                               |         |
 
 ### Terminal
@@ -159,7 +159,7 @@
 
 ### Notion
 
-[Reference](https://www.notion.so/Learn-the-shortcuts-66e28cec810548c3a4061513126766b0#187f6beb0b6a4a8aaf87b72428572e55)
+[Reference](https://www.notion.so/Learn-the-shortcuts-66e28cec810548c3a4061513126766b0#ad3b257b1e9d4ead94b0d058f438e134)
 
 | Shortcut                     | Function                               | Remarks |
 | ---------------------------- | -------------------------------------- | ------- |
