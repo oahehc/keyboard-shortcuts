@@ -83,6 +83,7 @@
 | CMD + SHIFT + Delete    | open the clear browsing data options          |                                          |
 | CMD + OPTION + i        | open developer tools                          |                                          |
 | CMD + OPTION + j        | open developer tools and focus to the console |                                          |
+| CMD + SHIFT + d         | bookmark all tabs                             |                                          |
 |                         |                                               |                                          |
 
 #### (in Chrome dev-tool)
@@ -96,6 +97,7 @@
 | CTRL + \`       | show console inside other tab |         |
 | ESC             | hide console inside other tab |         |
 | CMD + K         | clear console                 |         |
+| CMD + SHIFT + d | toggle docker position        |         |
 |                 |                               |         |
 
 ### Terminal
