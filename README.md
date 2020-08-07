@@ -158,6 +158,7 @@
 | CMD + OPTION + ⬆️ or ⬇️ | duplicate cursor at prev/next line                |         |
 | OPTION + ⬆️ or ⬇️       | move current line up/down                         |         |
 | CTRL + d                | duplicate current line                            |         |
+| CMD + SHIFT + l         | Select All Occurrences of Find Match              |         |
 |                         |                                                   |         |
 
 ### Notion
