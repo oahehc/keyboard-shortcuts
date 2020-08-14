@@ -158,6 +158,8 @@
 | CMD + OPTION + ⬆️ or ⬇️ | duplicate cursor at prev/next line                |         |
 | OPTION + ⬆️ or ⬇️       | move current line up/down                         |         |
 | CTRL + d                | duplicate current line                            |         |
+| CMD + d                 | select the next occurrence                        |         |
+| CMD + u                 | undo select occurrence                            |         |
 | CMD + SHIFT + l         | Select All Occurrences of Find Match              |         |
 |                         |                                                   |         |
 
