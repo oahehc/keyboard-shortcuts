@@ -84,6 +84,7 @@
 | CMD + OPTION + i        | open developer tools                          |                                          |
 | CMD + OPTION + j        | open developer tools and focus to the console |                                          |
 | CMD + SHIFT + d         | bookmark all tabs                             |                                          |
+| CMD + i                 | show page info like meta tag                  |                                          |
 |                         |                                               |                                          |
 
 #### (in Chrome dev-tool)
